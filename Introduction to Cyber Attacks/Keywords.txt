@@ -1,0 +1,122 @@
+c/c++/python are also a part of hacking
+
+Advisory
+
+Robustness
+
+Worm Program
+{Code:
+   Worm:
+   {find-host(h);
+   rcopy(worm,h)
+   rexec(worm,h)}
+}
+
+
+Trojan Horse
+TrapDoor
+
+invisible Trojan Horses       through dirty compilers
+
+Compiling Vendors
+
+Impose Contracts
+
+create a program bin
+copy shell to hackshell 
+/ character work as space
+run setuidprogram
+
+Security as Enabler
+
+Adversaries:s
+  -Hackers
+  -Criminals
+  -Hacktivists
+  -Nation-state Actors(Military groups to promote warfare)
+
+
+Vulnerability Types:
+  -Finding Software Bug
+  -Missing Security
+  -Human
+  -Bad Organization
+
+Threat Types {CIA Model}
+  -Leaking(Confidentially)
+  -Integrity (Infect the system)<Asset> <Malicious tampering and corruption>
+  -Availability (DDOS denial of service)
+  -steal services 
+
+Encryption
+ End-to-end-encryption
+ Link Encryption
+
+Buffer Overflow(problems in memory) >> Integrity Attack
+
+Denial Of service attack:
+ Ampification
+ Spoofing and Reflection
+
+
+Indicators
+
+Heuristic Attacks(dealth with complexity)
+BruteForce(dealth wit size)
+
+
+Cryptanylisis: (Wirte a python program to attack)
+ Ciphertext only
+ Known PlainText
+ Create Codebook
+
+Frequently Distribution
+
+
+UDP  slammer worm 2003
+large scale intrusion detections
+
+Nache worm 2003 ICMP traffic
+sending ping traffic across internet  
+Big DAta Analytics
+mirai bot
+
+Botnets:
+Y2K , millenium bug,  1999
+Just because we don't see something doesn't mean it's not there
+zombie nets, botnets, Command and Control, amplification
+fast flux networks
+
+Botnet Arithmetic
+1,Tcp - ip 3way handshake   throw lot of traffics
+2,hidden ip                 sync flood
+
+How many bots are required at 2 Mbps egress capacity for malware to take out a 10 Gbps network connection?  5000
+IOT are not secure because of botnets
+
+Singnaling system 7
+
+wikileaks  >> a site of information leaking
+
+Assets in cyber
+Critical Infrastructure
+
+Risk = probablity and consequences 
+Baselining
+Security Risk Management >>  Security and cost decisions
+
+Threat Tree:
+Confidentially Integrity ADenial Of Service,     Software , Hardware, Information, Internal External  
+
+Posture >>  strengths,weakness  Threat/Asset Matrix
+
+Case Study:
+
+BOTNETS are the best and favourite tool of  HACKERS***********************************************
+
+Risk management determinations
+
+Chief Information Security Ifficer CISO
+
+Attacks, Vulnerabilities >> Infinite sets
+Assets, Threats >> Finite Sets

@@ -1,0 +1,42 @@
+https://www.youtube.com/watch?v=aUqes9QdLQ4    >>     Kevin talks to google
+
+https://www.youtube.com/watch?reload=9&v=OobLb1McxnI   >>  Charlie Miller , remote exploitation of vehicle
+after 16min
+
+
+https://insecure.org/stf/smashstack.html  >>  lots of stuff to read
+
+file:///C:/Users/SOHAIB/Downloads/Documents/p761-thompson.pdf   >>  The way to hide a trojan horse in code
+
+file:///C:/Users/SOHAIB/Downloads/Documents/wcf.pdf  >> Cryptanalysis Attack(Cryptosytems Failure)
+
+file:///C:/Users/SOHAIB/Downloads/Documents/bellovin.pdf  >> Tools and Trap && There will be dragons
+
+https://www.youtube.com/watch?v=6ZyzR1xNV0E&feature=youtu.be >> DMARC Whiteboard SessMi
+
+
+MIRAI BOTNET To Hack Internet Of Things
+
+
+https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/  >> Hackers Remotely Kill a Jeep on the Highway—With Me in It
+
+https://www.youtube.com/watch?v=hqKafI7Amd8   >>  Top hacker shows us how it's done  (TED Talk)
+
+https://www.ted.com/talks/avi_rubin_all_your_devices_can_be_hacked  >>  Everything can be hacked(TED Talks)
+
+https://www.welivesecurity.com/2017/01/12/fast-flux-networks-work/  >>  “It is relatively easy for a criminal to set up infrastructure using Fast Flux networks, which are difficult to trace.”
+
+file:///C:/Users/SOHAIB/Downloads/Documents/mim.pdf  >> A Man-in-the-Middle Attack on UMTS
+
+file:///C:/Users/SOHAIB/Downloads/Documents/994.pdf  >> Are Computer Hacker Break-ins Ethical?
+
+https://www.ted.com/talks/lorrie_faith_cranor_what_s_wrong_with_your_pa_w0rd >> whats wrong with the password
+
+https://www.ted.com/talks/mikko_hypponen_fighting_viruses_defending_the_net >> fighting viruses
+
+
+http://turbochaos.blogspot.com/2015/04/usbcreator-exploit-and-d-bus-testing.html   >>  D-Bus Python Exploit
+
+https://www.kali.org/tutorials/kali-on-the-windows-subsystem-for-linux/  >>  Install Kali On Windows
+
+https://www.exploit-db.com/searchsploit  >>  Exploit Database  With Kali
